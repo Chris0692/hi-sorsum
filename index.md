@@ -2,36 +2,17 @@
 
 Auf den Folgenden Seiten wird die Verwendung der Seite hi-sorsum.de näher erleutert. Diese Anleitung ist nicht vollständig sondern geht legedlicht auf die Besonderheiten der Webseite ein.
 
-Alle weiteren Informationen entnehmen Sie Bitte der hilfe von Wordpress. 
+Alle weiteren Informationen entnehmen Sie bitte der hilfe von Wordpress. 
 
-### Markdown
+### Inhalt
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Diese Anleitung beschäftigt sich mit den folgenden Themen:
 
-```markdown
-Syntax highlighted code block
+1. CK Alert
+2. CK Company/ Vereine
+3. Bootstrap Slider
+4. CK Kontakt Widget
 
-# Header 1
-## Header 2
-### Header 3
+##Information zu den Modulen
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chris0692/hi-sorsum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Alle Module mit der Präfix CK sind Module, welche Spetziell für die Webseite hi-sorusm.de entwickelt worden. Daher sind alle Informationen in dieser Anleitung zu finden. Ein weiteres Handbuch gibt es nicht!
