@@ -13,6 +13,6 @@ Diese Anleitung beschäftigt sich mit den folgenden Themen:
 3. Bootstrap Slider
 4. CK Kontakt Widget
 
-##Information zu den Modulen
+## Information zu den Modulen
 
 Alle Module mit der Präfix CK sind Module, welche Spetziell für die Webseite hi-sorusm.de entwickelt worden. Daher sind alle Informationen in dieser Anleitung zu finden. Ein weiteres Handbuch gibt es nicht!
