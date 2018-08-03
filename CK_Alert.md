@@ -7,4 +7,5 @@ Das Moduel CK Alert dient zur Anzeige von Kurzmeldungen auf der Startseite. Hier
 
 ## Info
 
-Eine Info meldung wird Blau dagestellt. Sie wird verwendet um auf einfache Informationen aufmerksam zu machen. 
+Eine Info meldung wird Blau dagestellt. Sie wird verwendet um auf einfache Informationen aufmerksam zu machen.
+[logo]: https://github.com/Chris0626/hi-sorsum/assets/ck_alert/ck_alert_info.png
