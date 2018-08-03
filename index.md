@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Handbuch für Redakteur von hi-sorsum.de
 
-You can use the [editor on GitHub](https://github.com/Chris0692/hi-sorsum/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Auf den Folgenden Seiten wird die Verwendung der Seite hi-sorsum.de näher erleutert. Diese Anleitung ist nicht vollständig sondern geht legedlicht auf die Besonderheiten der Webseite ein.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Alle weiteren Informationen entnehmen Sie Bitte der hilfe von Wordpress. 
 
 ### Markdown
 
