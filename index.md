@@ -8,7 +8,7 @@ Alle weiteren Informationen entnehmen Sie bitte der hilfe von Wordpress.
 
 Diese Anleitung beschäftigt sich mit den folgenden Themen:
 
-1. [CK Alert](../blob/master/CK_Alert.md)
+1. [CK Alert](../master/CK_Alert.md)
 2. CK Company/ Vereine
 3. Bootstrap Slider
 4. CK Kontakt Widget
