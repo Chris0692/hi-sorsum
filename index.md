@@ -2,13 +2,13 @@
 
 Auf den Folgenden Seiten wird die Verwendung der Seite hi-sorsum.de näher erleutert. Diese Anleitung ist nicht vollständig sondern geht legedlicht auf die Besonderheiten der Webseite ein.
 
-Alle weiteren Informationen entnehmen Sie bitte der hilfe von Wordpress. 
+Alle weiteren Informationen entnehmen Sie bitte der hilfe von Wordpress.
 
 ### Inhalt
 
 Diese Anleitung beschäftigt sich mit den folgenden Themen:
 
-1. CK Alert
+1. [CK Alert](../blob/master/CK_Alert.md)
 2. CK Company/ Vereine
 3. Bootstrap Slider
 4. CK Kontakt Widget
