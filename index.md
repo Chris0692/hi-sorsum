@@ -1,4 +1,4 @@
-## Handbuch für Redakteur von hi-sorsum.de
+## Handbuch für Redakteure von hi-sorsum.de
 
 Auf den Folgenden Seiten wird die Verwendung der Seite hi-sorsum.de näher erleutert. Diese Anleitung ist nicht vollständig sondern geht legedlicht auf die Besonderheiten der Webseite ein.
 
